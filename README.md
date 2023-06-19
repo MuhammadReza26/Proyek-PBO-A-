@@ -18,3 +18,6 @@ kemudian menjalankan program sesuai dengan tampilan menu yang telah diatur atau 
 
 # App.java
 terdapat class App.java yang memiliki method main (), yang didalamnya memanggil Menu.showMenu() untuk menjalankan program 
+
+
+Ini merupakan proyek pertama yang mana mengkoneksikan database ke java 
